@@ -30,6 +30,7 @@ o FILEUPLOAD-244:  DiskFileItem.readObject fails to close FileInputStream
 o FILEUPLOAD-245:  DiskFileItem.get() may not fully read the data
 
 Changes:
+o FILEUPLOAD-252   Support for jakarta.servlet-api 5.0.0
 o FILEUPLOAD-292:  Don't create un-needed resources in FileUploadBase.java
 o FILEUPLOAD-282:  Upversion complier.source, compiler.target to 1.6
 o FILEUPLOAD-246:  FileUpload should use IOUtils.closeQuietly where relevant
