@@ -34,7 +34,7 @@ import org.junit.Test;
  * Test for {@link ServletFileUpload}.
  *
  * @see FileUploadTest
- * @since 1.4
+ * @since 1.5
  */
 public class ServletFileUploadTest {
 

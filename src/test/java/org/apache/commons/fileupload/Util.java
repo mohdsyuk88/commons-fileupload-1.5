@@ -30,7 +30,7 @@ import org.apache.commons.fileupload.servlet.ServletRequestContext;
 /**
  * Test utility methods.
  *
- * @since 1.4
+ * @since 1.5
  */
 public class Util {
 

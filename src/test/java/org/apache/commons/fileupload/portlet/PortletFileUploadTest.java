@@ -35,7 +35,7 @@ import org.junit.Test;
  * Test for {@link PortletFileUpload}.
  *
  * @see FileUploadTest
- * @since 1.4
+ * @since 1.5
  */
 public class PortletFileUploadTest {
 

@@ -1161,7 +1161,7 @@ public abstract class FileUploadBase {
         /**
          * The exceptions cause; we overwrite the parent
          * classes field, which is available since Java
-         * 1.4 only.
+         * 1.5 only.
          */
         private final FileUploadException cause;
 
@@ -1244,7 +1244,7 @@ public abstract class FileUploadBase {
         /**
          * The exceptions cause; we overwrite the parent
          * classes field, which is available since Java
-         * 1.4 only.
+         * 1.5 only.
          */
         private final IOException cause;
 

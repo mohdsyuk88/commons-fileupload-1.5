@@ -40,7 +40,7 @@ import org.junit.runners.Parameterized.Parameters;
  *
  * @see ServletFileUploadTest
  * @see PortletFileUploadTest
- * @since 1.4
+ * @since 1.5
  */
 @RunWith(Parameterized.class)
 public class FileUploadTest {

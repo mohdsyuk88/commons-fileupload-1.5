@@ -19,7 +19,7 @@ package org.apache.commons.fileupload;
 /**
  * Constants used for testing.
  *
- * @since 1.4
+ * @since 1.5
  */
 public final class Constants {
 

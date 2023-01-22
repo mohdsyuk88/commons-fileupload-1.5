@@ -43,7 +43,7 @@ import org.apache.commons.fileupload.FileUploadBase;
  * Mock class for tests. Implements an {@link ActionRequest}.
  *
  * @see PortletFileUploadTest
- * @since 1.4
+ * @since 1.5
  */
 @SuppressWarnings("rawtypes") // because of the portlet ActionRequest API does not use generics
 public class MockPortletActionRequest implements ActionRequest {

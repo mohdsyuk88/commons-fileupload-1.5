@@ -62,7 +62,7 @@ code, tt {
     font-size:14px;
     padding-top:4px;
     margin-top:8px;
-    line-height:1.4em;
+    line-height:1.5em;
 }
 dt code {
     font-family:'DejaVu Sans Mono', monospace;
@@ -327,7 +327,7 @@ ul.blockList, ul.blockListLast {
 ul.blockList li.blockList, ul.blockListLast li.blockList {
     list-style:none;
     margin-bottom:15px;
-    line-height:1.4;
+    line-height:1.5;
 }
 ul.blockList ul.blockList li.blockList, ul.blockList ul.blockListLast li.blockList {
     padding:0px 20px 5px 10px;

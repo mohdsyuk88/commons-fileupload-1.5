@@ -26,7 +26,7 @@ import org.junit.Test;
 /**
  * Test for {@link DiskFileUpload}. Remove when deprecated class is removed.
  *
- * @since 1.4
+ * @since 1.5
  */
 @SuppressWarnings({"deprecation"}) // unit tests for deprecated class
 public class DiskFileUploadTest {
